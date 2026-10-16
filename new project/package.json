@@ -1,0 +1,9 @@
+{
+  "name": "asad-arshad-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static portfolio website for Asad Arshad",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
